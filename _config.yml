@@ -56,6 +56,9 @@ navbar:
   - slug : blog
     title: Blog
 
+exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
+
+
 # prose  
   prose:
   siteurl: 'https://apapendieck.github.io/'
@@ -92,5 +95,3 @@ navbar:
           element: "text"
           label: "Permalink"
           value: ""
-
-exclude: ["gulp", "node_modules", "bower", "bower_components", "config.rb", "src", "Gemfile", "Gemfile.lock", ".rvmrc", ".rbenv-version", "package.json", "gulpfile.js", "README.md", "Rakefile", "changelog.md"]
