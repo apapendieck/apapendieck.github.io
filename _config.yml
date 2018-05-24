@@ -58,7 +58,6 @@ navbar:
 
 # prose  
   prose:
-  rooturl: '_posts'
   siteurl: 'https://apapendieck.github.io/'
   relativeLinks: 'http://prose.github.io/starter/links.jsonp'
   media: '/assets/images'
