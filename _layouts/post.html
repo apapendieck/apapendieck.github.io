@@ -1,16 +1,56 @@
 ---
 layout: default
 ---
+{% for member in site.categories.people %}
+	{% if member.title == page.author %}
+		{% assign author = member %}
+	{% endif %}
+{% endfor %}
 
-<article class="post container" itemscope itemtype="http://schema.org/BlogPosting">
-  <header class="post-header">
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-  </header>
-  <div class="post-content" itemprop="articleBody">
-    {{ content }}
-    {% include post-share.html %}
-  </div>
-</article>
+<div class="news-post">
+	<div class="row">
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+			<div class="media">
+				<div class="media-body">
+					<div class="title media-heading">
+						<a href="{{ page.url }}" class="off">{{ page.title }}</a>
+					</div>
+					<p>
+					<div class="smallhead">
+						{{ page.date | date_to_string }}
+						{% if author %}
+						by <a class="off" href="{{ author.url }}">{{ author.handle }}</a>
+						{% endif %}
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-1"></div>
+	</div>
 
-{% include comments.html %}
+	<div class="bigspacer"></div>
+
+	<div class="row">
+		<div class="col-md-1"></div>
+		<div class="col-md-10">
+			{% if page.image %}
+			{% if page.link %}
+			<a href="{{ page.link }}">
+				<img class="offset" src="{{ page.image }}">
+			</a>
+			{% else %}
+			<img class="offset" src="{{ page.image }}">
+			{% endif %}
+			{% endif %}
+			<div class="post">
+				{{ content }}
+			</div>
+		</div>
+		<div class="col-md-1"></div>
+	</div>
+
+	<div class="bigspacer"></div>
+	<div class="spacer"></div>
+
+</div>

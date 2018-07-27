@@ -1,27 +1,64 @@
 ---
 layout: default
-title: Home
+title: jayich lab
+categories:
+ - home
 ---
 
-{% include intro.html %}
+<div class="row">
+	<div class="col-md-12">
+		<object class="pull-left biglogo" data="/images/kite-03.svg" type="image/svg+xml"></object>
+		<div class="bigtitle logobox">
+			jayich lab research
+		</div>
+	</div>
+</div>
 
-<section class="post-list">
-  <div class="container">
-    {% for post in site.posts %}
-      {% unless post.next %}
-        <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-      {% else %}
-        {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-        {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-        {% if year != nyear %}
-          <h2 class="category-title">{{ post.date | date: '%Y' }}</h2>
-        {% endif %}
-      {% endunless %}
-      <article class="post-item">
-        <span class="post-meta date-label">{{ post.date | date: "%b %d" }}</span>
-        <div class="article-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
-      </article>
-    {% endfor %}
-  </div>
+<div class="bigspacer"></div>
 
-</section>
+<div class="row">
+	<div class="col-md-12">
+		<div class="smallhead">
+			The Jayich Lab  in the <a class="off" href="http://physics.ucsb.edu/">UCSB Physics Department</a> develops new quantum technologies and addresses fundamental questions in physics by controlling single quantum states of trapped ions.  An ion trap is subtly powerful: the trap cares only about a particle’s charge and mass, leaving the trap insensitive to the trapped atom or molecule’s internal structure.  A trapped atomic or molecular ion with exotic or complex internal structure may be prepared in a single quantum state and read out with a combination of electromagnetic fields and co-trapped “control” ions. 
+		</div>
+	</div>
+</div>
+
+<div class="bigspacer"></div>
+<div class="bigspacer"></div>
+
+<div class="row">
+	<div class="col-md-12">
+		<div class="head">
+			<a class="off" href="/news/">Recent news</a>
+		</div>
+		<div class="spacer"></div>
+	</div>
+</div>
+
+<!-- Recent news -->
+<div class="row">
+	{% for post in site.categories.news limit:4 %}
+
+	<div class="col-md-3 reduced-gutter">
+		<div class="pad-left">
+			<div class="note">
+				<a class="off" href="{{ post.url }}">
+				{{ post.title }}
+				</a>
+			</div>
+			<div class="smallspacer"></div>
+			<div class="smallnote">
+				{{ post.date | date: "%-d %b %Y" }}
+			</div>
+			<div class="bigspacer"></div>
+		</div>
+	</div>
+	{% endfor %}
+</div>
+
+<div class="spacer"></div>
+
+<div class="row logos">
+	<img src="/images/logos/uscb.jpg" class="logo" />
+</div>
