@@ -3,13 +3,9 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-I'd love to hear from you, so feel free to reach out:
-
-Cleveland Clinic<br>
-9500 Euclid Ave<br>
-Cleveland, OH 44195<br>
-646-888-8299<br>
-zabore2@ccf.org<br>
-
-Or connect with me on GitHub, Twitter, or Linkedin (links in top right).
-
+Adam Papendieck PhD<br>
+The University of Texas at Austin<br>
+Jackson School of Geosciences<br>
+Office: JGB 2.104B<br>
+512-232-0889<br>
+apapendieck@utexas.edu<br>

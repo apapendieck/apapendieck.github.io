@@ -4,23 +4,7 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
 
-## Tutorials
+## Courses Designed
 
-You can find materials related to tutorials I have presented at [www.emilyzabor.com/tutorials](http://www.emilyzabor.com/tutorials/).
-
-
-## Adjunct professor classes
-
-Spring 2017: Fundamentals of Biostatistics, Hunter College
-
-Fall 2016: Fundamentals of Biostatistics, Hunter College
-
-
-## Teaching assistant classes
-
-Fall 2017: Data Science I, Columbia University
-
-Spring 2010: Advanced Topics in Clinical Trials, The University of Minnesota
-
-Spring 2009: Introduction to Biostatistics, The University of Minnesota
-
+2020 Sp	Broader Impacts: Designing and Communicating for Consequential Science, UT Austin, Jackson School of Geosciences (listed GEO 370T)
+2020 Fa	Open Science: Principles and Methods, UT Austin, Jackson School of Geosciences (planned)
