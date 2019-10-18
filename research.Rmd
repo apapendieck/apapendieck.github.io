@@ -3,29 +3,41 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-A full list of my publications is available on [Google scholar](https://scholar.google.com/citations?user=tLbQTZMAAAAJ&hl=en).
+### Full Publication List 
 
-My dissertation research, under the advisement of [Dr. Shuang Wang](https://www.mailman.columbia.edu/people/our-faculty/sw2206) at Columbia University and [Dr. Colin Begg](https://www.mskcc.org/profile/colin-begg) at Memorial Sloan Kettering Cancer Center, focused on statistical methods for the study of etiologic heterogeneity. The first part of my research focused on comparing and contrasting existing methods for the study of etiologic heterogeneity using a simulation study and simplified data example. Next, I examined the statistical properties of our method for the study of etiologic heterogeneity to determine its ability to find the truly most etiologically heterogeneous subtype solutions under a variety of data settings. Finally, I applied the method to data from the Carolina Breast Cancer Study, and explored additional methodological challenges that exist in a real data analysis.
+On [Google Scholar](https://scholar.google.com/citations?user=-TbbZWQAAAAJ&hl=en).
 
-### Selected publications
+### Dissertation
 
-The publications below represent my work on learning and technology innovation
-
-####Peer Reviewed Journal Articles
-Nguyen, K., Azevedo, F., Papendieck, A. (accepted). No longer an imagined case: Community, plans, and situated actions in canoeing rapids. Journal of the Learning Sciences.
-Papendieck, A. (2018). Technology for Equity and Social Justice in Education: A Critical Issue Overview. Texas Education Review, 6(1), 1–9. https://doi.org/10.15781/t2891278v
+**Papendieck, A.** (2019). More-than-social innovation: The material and discursive enactment of an open ed-tech network (Thesis). http://dx.doi.org/10.26153/tsw/2703
 
 
-####Conference Proceedings and Presentations (* = refereed)
+Committee: [Joan Hughes (chair)](https://education.utexas.edu/faculty/joan_hughes), [Flavio Azevedo](https://education.utexas.edu/faculty/flavio_azevedo), [Paul Resta](https://education.utexas.edu/faculty/paul_resta), [Clay Spinuzzi](https://liberalarts.utexas.edu/rhetoric/faculty/spinuzzi)
 
-*Papendieck, A. (2019). More-than-Social Innovation: Techno-Axiological Enactments of an EdTech Network. American Education Research Association (AERA) Conference (Apr 4-9, 2019), Toronto.
-*Cooperdock, E., Bernard, R., Capaldi, T., & Papendieck, A. (2018). The Impact of Science Y’all: A Grassroots Student Blog. In Goldschmidt Abstracts 2018. Boston, MA.
-*Papendieck, A., Hughes, J. (2018). Modes of Innovation: How and Why Teachers and Entrepreneurs Use Technology for Change in Schools. American Education Research Association (AERA) Conference (Apr 13-17, 2018), New York, NY.
-*Papendieck, A., Yin, C., Eliason, C., Clarke, J. (2018). Mapping Research and Writing Mentorship Assemblages in a Mixed Cohort Course-based Research Experience. International Conference on the Learning Sciences (ICLS) (Jun 23-27, 2018), London. 
-*Papendieck, A., Hughes, J. (2017). Examining the activity of teachers and technology entrepreneurs: Implications for teacher preparation. International Society for Educational Technology (ISTE) Conference (Jun 25-28, 2017), San Antonio, TX.
-*Papendieck, A., Ngenzi, J. L., Cotton, P., Mock, N., Ndimurukuno, M. (2017). Using technology and digital resources to enhance teaching, learning, and scholarly practices in health sciences higher education: lessons learned in Rwanda. Society for Information Technology and Teacher Education (SITE) Conference (Mar 5-9, 2017), Austin, TX.
-*Mock, N., Bikaako, W., Papendieck, A., & Bazeyo, W. (2016). Regional research capacity development: a novel approach. American Evaluation Association (AEA) Evaluation (Oct 24-29, 2016), Atlanta, GA.
-*Papendieck, A., Mock, N., & Kyamanywa, P. (2016). Grassroots and Global: A Blended Approach to University Faculty Development in Rwanda. International Society for Educational Technology (ISTE) Conference (Jun 26-29, 2016), Denver, CO. https://dx.doi.org/10.6084/m9.figshare.3491069.v1
-*Mock, N., Morrow, N., Papendieck, A., Bauer, J., & Enlund, A. (2015). Assessment of World Food Program’s mVAM program: A novel application of cellular phone technology to high frequency food security monitoring in difficult circumstances. International Conference on Global Food Security (Oct 11-14, 2015), Ithaca, New York, USA.
-*Papendieck, A., Mock, N., & Kyamanywa, P. (2015). Tablets for Medical Education (T4ME) Project in Rwanda: Usage Patterns and Learning Outcomes Over Three Years. Distance Teaching and Learning Conference (Aug 11-13, 2015), Madison, WI. http://dx.doi.org/10.6084/m9.figshare.1591148
-*Mock, N., Papendieck, A., Rolfes, A., Dosemagen, S., & Morrow, N. (2011). People speak about the oil spill impacts. 139th American Public Health Association (APHA) Annual Meeting and Exposition.
+### Selected Publications
+
+The publications below represent my most recent work on learning and technology innovation.  For prior technical and scientific publications, see my [Full Publication List](https://scholar.google.com/citations?user=-TbbZWQAAAAJ&hl=en). 
+
+##### Peer Reviewed Journal Articles
+
+Nguyen, K., Azevedo, F., **Papendieck, A.** (accepted). No longer an imagined case: Community, plans, and situated actions in canoeing rapids. Journal of the Learning Sciences.
+
+**Papendieck, A.** (2018). Technology for Equity and Social Justice in Education: A Critical Issue Overview. Texas Education Review, 6(1), 1–9. https://doi.org/10.15781/t2891278v
+
+##### Conference Proceedings and Presentations
+
+**Papendieck, A.** (2019). More-than-Social Innovation: Techno-Axiological Enactments of an EdTech Network. American Education Research Association (AERA) Conference (Apr 4-9, 2019), Toronto.
+
+**Papendieck, A.**, Hughes, J. (2018). Modes of Innovation: How and Why Teachers and Entrepreneurs Use Technology for Change in Schools. American Education Research Association (AERA) Conference (Apr 13-17, 2018), New York, NY.
+
+**Papendieck, A.**, Yin, C., Eliason, C., Clarke, J. (2018). Mapping Research and Writing Mentorship Assemblages in a Mixed Cohort Course-based Research Experience. International Conference on the Learning Sciences (ICLS) (Jun 23-27, 2018), London. 
+
+**Papendieck, A.**, Hughes, J. (2017). Examining the activity of teachers and technology entrepreneurs: Implications for teacher preparation. International Society for Educational Technology (ISTE) Conference (Jun 25-28, 2017), San Antonio, TX.
+
+**Papendieck, A.**, Ngenzi, J. L., Cotton, P., Mock, N., Ndimurukuno, M. (2017). Using technology and digital resources to enhance teaching, learning, and scholarly practices in health sciences higher education: lessons learned in Rwanda. Society for Information Technology and Teacher Education (SITE) Conference (Mar 5-9, 2017), Austin, TX.
+
+Mock, N., Bikaako, W., **Papendieck, A.**, & Bazeyo, W. (2016). Regional research capacity development: a novel approach. American Evaluation Association (AEA) Evaluation (Oct 24-29, 2016), Atlanta, GA.
+
+**Papendieck, A.**, Mock, N., & Kyamanywa, P. (2016). Grassroots and Global: A Blended Approach to University Faculty Development in Rwanda. International Society for Educational Technology (ISTE) Conference (Jun 26-29, 2016), Denver, CO. https://dx.doi.org/10.6084/m9.figshare.3491069.v1
+
+**Papendieck, A**., Mock, N., & Kyamanywa, P. (2015). Tablets for Medical Education (T4ME) Project in Rwanda: Usage Patterns and Learning Outcomes Over Three Years. Distance Teaching and Learning Conference (Aug 11-13, 2015), Madison, WI. http://dx.doi.org/10.6084/m9.figshare.1591148

@@ -3,12 +3,19 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-2019	“Designing Austin's EdTech Scene for Impact through Diversity.” EdTech Austin Meetup (Scheduled for Nov. 2019)
-2018	“Theoretical and Practical Perspectives on the Writing Process.” Geosciences Empowerment Network. University of Texas at Austin
-2017	“Open Education.” IGA Fellowship Workshop. University of Rwanda
-2016	“Science and Social Scholarship.” UTIG Brown Bag Seminar Series, University of Texas at Austin, Jackson School of Geosciences; Climate Forum, University of Texas at Austin, Jackson School of Geosciences
-2016	“Navigating Landscapes of Scientific Practice: The Importance of Effective Communicators in the Sciences.” UTIG Brown Bag Seminar Series, University of Texas at Austin, Jackson School of Geosciences
-2016	 “A Personalized and Programmatic Approach to Developing Effective Communicators in the Sciences.” The 120th Geology Foundation Advisory Council Meeting, University of Texas at Austin, Jackson School of Geosciences
-2014 	“Open Education.” College of Medicine and Health Sciences, University of Rwanda
-2008	“The Hoffman Triangle Neighborhood Information Initiative.” The Robert Wood Johnson Foundation Meeting on Post-Katrina Neighborhood Information Initiatives (New Orleans)
+2019	**Designing Austin's EdTech Scene for Impact through Diversity.** EdTech Austin Meetup (Scheduled for Nov. 2019)
+
+2018	**Theoretical and Practical Perspectives on the Writing Process.** Geosciences Empowerment Network. University of Texas at Austin
+
+2017	**Open Education.** IGA Fellowship Workshop. University of Rwanda
+
+2016	**Science and Social Scholarship.** UTIG Brown Bag Seminar Series, University of Texas at Austin, Jackson School of Geosciences; Climate Forum, University of Texas at Austin, Jackson School of Geosciences
+
+2016	**Navigating Landscapes of Scientific Practice: The Importance of Effective Communicators in the Sciences.** UTIG Brown Bag Seminar Series, University of Texas at Austin, Jackson School of Geosciences
+
+2016	 **A Personalized and Programmatic Approach to Developing Effective Communicators in the Sciences.** The 120th Geology Foundation Advisory Council Meeting, University of Texas at Austin, Jackson School of Geosciences
+
+2014 	**Open Education.** College of Medicine and Health Sciences, University of Rwanda
+
+2008	**The Hoffman Triangle Neighborhood Information Initiative.** The Robert Wood Johnson Foundation Meeting on Post-Katrina Neighborhood Information Initiatives (New Orleans)
 
