@@ -10,7 +10,7 @@
 Contemproary participatory media enables the fluid formation and disruption of such learnign contexts and networks, presenting a challenge to traditional notions of learning as a highly disciplined, community-bound activity. I have developed multimodal narrative case study approaches to study cases of networked particiaptory learning, including ed-tech innovators, student scientists undertaking course-based research, citizen scientists, and networks of teaching artists. My goal is to understand what "21st century skills" of "conencted" and "lifelong" leanring look like in the digitcal whild in order that we may draw lessons for the development of open learning and innovation networks that can more reliably pursue difficult democratic goals of equity and justice. 
 
 ******
-******
+*******
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
