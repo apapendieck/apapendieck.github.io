@@ -11,6 +11,8 @@ navbar:
       href: teaching.html
 ##    - text: "Speaking"
 ##      href: talks.html
+    - text: "CV"
+      href: https://utexas.app.box.com/v/Papendieck-CV
   right:
     - icon: fa-envelope fa-lg
       href: contact.html
