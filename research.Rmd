@@ -7,7 +7,7 @@
 
 ## Learning in Open and Participatory Media Ecologies
 
-Contemproary participatory media enables the fluid formation and disruption of such learnign contexts and networks, presenting a challenge to traditional notions of learning as a highly disciplined, community-bound activity. I have developed multimodal narrative case study approaches to study cases of networked particiaptory learning, including ed-tech innovators, student scientists undertaking course-based research, citizen scientists, and networks of teaching artists. My goal is to understand what "21st century skills" of "conencted" and "lifelong" leanring look like in the digitcal whild in order that we may draw lessons for the development of open learning and innovation networks that can more reliably pursue difficult democratic goals of equity and justice. 
+Contemproray participatory media enables the fluid formation and disruption of learning networks, presenting a challenge to traditional notions of learning as a highly disciplined, community-bound activity. I use ethnographic and multimodal narrative case study approaches to study cases of participatory and connected learning, including networks of urban ed-tech innovators, student scientists undertaking course-based research, citizen scientists, and community teaching artists. This research reveals what "21st century skills" of "connected" and "lifelong" learning really look like *in the digital wild*, and informs the design of better, more relevant and equitable open learning and innovation networks. 
 
 ******
 *******
@@ -18,7 +18,7 @@ Contemproary participatory media enables the fluid formation and disruption of s
 
 ## Values-sensitive Technology Innovation
 
-Technology and design processes are too often presumed to be neutral or inevitable forces, and and they tend to be engaged in ways that ultimately re-inforce the educational and social orthodoxy.  This work, grounded in studies of teacher and entrepreneurial innvoation, is focused on developing new frameworks for expanding our understanding of what counts as innovative in education, and who counts as an innovator. By more consistently surfacing the values and ethical implciations of technology engagment in educational contexts, we hope to identify and support values-sensitive critical innvoations and critical innovators that stand a better chance of "disrupting" entrenched notions of what school is, could, and should be.  
+Technology is too often presumed to be *neutral*, *good* or *inevitable*, and as such it tends to be engaged in ways that ultimately re-inforce the educational and social orthodoxy.  I study innvoative teachers and entrepreneurs in order to understand how they position themselves as innovators with respect to the status quo, and to develop new frameworks that expanding our understanding of what counts as innovative in education, and who counts as an innovator. By more consistently surfacing the values and ethical implications of technology engagment in educational contexts, I hope to identify and support the kind of *critical innvoations* and *critical innovators* that stand a chance of "disrupting" entrenched notions of what school is, could, and should be.  
 
 ************
 ******
@@ -27,7 +27,7 @@ Technology and design processes are too often presumed to be neutral or inevitab
 
 ## Design Research on Global and Distance Education
 
-I create experiences that engage learners in activities and environments that reflect the cultural and infrastructural contexts in which they aspire to act, and that show them what it means to innovate through their activity. I have designed, taught in and taught about online learning experiences and digital infrastructure for global education, development, and health, primarily in an East African context. I have evaluated and presented on these programs and projects as cases of blended instruction, digital assessment, and alternative credentialing for professional development, for instance, at ISTE and UW-Madison’s DT&L conference.
+I create experiences that engage learners in activities and environments that reflect the cultural and infrastructural contexts in which they aspire to act, and that show them what it means to innovate through their activity. I have designed, taught in and taught about online learning experiences and digital infrastructure for global education, development, and health, for over 15 years.  I am particularly interested in the design of international distance education activities that carefully link global goals and resources with local communities and priorities.  I have evaluated and disseminated findings on distance and online programs as cases of blended instruction, digital assessment, and alternative credentialing for professional development, training and higher education in university, NGO and grassroots organizational contexts. 
 
 ******
 ******
