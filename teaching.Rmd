@@ -3,9 +3,36 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+## Gradute and Undergraduate Courses
 
-## Courses Designed
+2018 Fa Co-designer: **Learning Technologies**, UT Austin Department of Curriculum and Instruction (instructor: Dr. Joan Hughes)
 
-**GEO 370T Broader Impacts: Designing and Communicating for Consequential Science**, UT Austin, Jackson School of Geosciences (listed for Sp 2020)
+2020 Sp (*listed*) Designer/Instructor: **GEO 370T Broader Impacts: Designing and Communicating for Consequential Science**, UT Austin, Jackson School of Geosciences
 
-**Open Science: Principles and Methods**, UT Austin, Jackson School of Geosciences (in preparation for Fa 2020)
+2020 (*in preparation*) Designer/Instructor: **Open Science: Principles and Methods**, UT Austin, Jackson School of Geosciences
+
+## Faculty and Professional Development
+
+2014	Co-designer/Instructor: **ONE HEALTH Research Champions Leadership Workshop** (Kampala), OHCEA Research Innovation Project (ORIP). Tulane University.
+
+2013	Co-Designer: **Certificate Prgram in Learning Sciences for Health**. Health Sciences Innovation Network (HSI-Net). Tulane University.
+
+2013	Instructor: **Learning Technology**. Health Sciences Innovation Network (HSI-Net). Tulane University.
+
+2013	Instructor: **Active Learning-Designing for Engagement** Health Sciences Innovation Network (HSI-Net). Tulane University.
+
+2013	Instructor: **Curriculum, Assessment and Introduction to Learning Analytics**. Health Sciences Innovation Network (HSI-Net). Tulane University.
+
+2012	Co-instructor: **Instructional Design for Online Teaching and Learning**. Health Sciences Innovation Network (HSI-Net). Tulane University.
+
+2012	Co-instructor: **Applied GIS and Thematic Mapping for Health Scientists**. Health Sciences Innovation Network (HSI-Net). Tulane University.
+
+2012  Co-Instructor: **Collaborative Teaching and Learning**. Health Sciences Innovation Network (HSI-Net). Tulane University.
+
+2012	Instructor: **Open Education**. Health Sciences Innovation Network (HSI-Net). Tulane University.
+
+2012	Designer/Instructor: **New Literacies for the Unified Health Sciences Workshop**. University of Rwanda. Tulane University.
+
+2004 	Instructor: **Statistical Analysis Using EpiInfo**. University of Rwanda School of Public Health. Tulane University.
+
+2004	Instructor: **Thematic Mapping with ArcMap**. University of Rwanda School of Public Health. Tulane University.
