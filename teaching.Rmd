@@ -3,13 +3,15 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Gradute and Undergraduate Courses
+## Gradute and Undergraduate Courses Taught
 
-2018 Fa Co-designer: **Learning Technologies**, UT Austin Department of Curriculum and Instruction (instructor: Dr. Joan Hughes)
+2020 Sp Instructor/Designer: **GEO 370T / 391 Broader Impacts: Designing and Communicating for Consequential Science**, UT Austin, Jackson School of Geosciences
 
-2020 Sp (*listed*) Designer/Instructor: **GEO 370T Broader Impacts: Designing and Communicating for Consequential Science**, UT Austin, Jackson School of Geosciences
+## Gradute and Undergraduate Courses Designed
 
 2020 (*in preparation*) Designer/Instructor: **Open Science: Principles and Methods**, UT Austin, Jackson School of Geosciences
+
+2018 Fa Co-designer: **Learning Technologies**, UT Austin Department of Curriculum and Instruction (instructor: Dr. Joan Hughes)
 
 ## Faculty and Professional Development
 
