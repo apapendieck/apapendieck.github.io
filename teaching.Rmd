@@ -3,11 +3,11 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
-## Graduate and Undergraduate Courses Taught
+## Courses Taught
 
 2020 Sp Instructor/Designer: **GEO 370T / 391 Broader Impacts: Designing and Communicating for Consequential Science**, UT Austin, Jackson School of Geosciences
 
-## Graduate and Undergraduate Courses Designed
+## Courses Designed
 
 2020 (*in preparation*) Designer/Planned Instructor: **Open Science: Principles and Methods**, UT Austin, Jackson School of Geosciences
 
