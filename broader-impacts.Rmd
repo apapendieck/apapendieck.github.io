@@ -1,0 +1,11 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+## Broader Impacts: Designing and Communicating for Consequential Science
+<img src="./images/sleepwalker_in_Newark.PNG" style="width:25%; border:10px solid; margin-right: 20px" align="left"> 
+
+Asking a creative scientist to be effectively concerned by the consequences of his work would be the equivalent of waking the sleepwalker, making him aware that the world is far from obeying his categories. He would doubt and fall, that is, be lost for science. - Elisabeth Stengers
+
+[**Syllabus**](./images/GEO 371T Broader Impacts Syllabus_Spring 2020-REVISION TO ONLINE-27Mar2020-v5 (6).pdf)
