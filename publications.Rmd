@@ -16,15 +16,23 @@ Committee: [Joan Hughes (chair)](https://education.utexas.edu/faculty/joan_hughe
 
 ## Selected Publications
 
-The publications below represent my most recent work on learning and technology innovation.  For prior technical and scientific publications, see my [Full Publication List on Google Scholar](https://scholar.google.com/citations?user=-TbbZWQAAAAJ&hl=en). 
+The publications below represent my most recent work on learning and technology innovation.  For prior technical and scientific publications, see my [**Full CV**](https://utexas.app.box.com/v/Papendieck-CV) or [Google Scholar Profile](https://scholar.google.com/citations?user=-TbbZWQAAAAJ&hl=en). 
 
 ### Peer Reviewed Journal Articles
 
-Nguyen, K., Azevedo, F., **Papendieck, A.** (accepted). No longer an imagined case: Community, plans, and situated actions in canoeing rapids. Journal of the Learning Sciences.
+**Papendieck, A.**, & Hughes, J. E. (forthcoming). Critical Innovators: How Teachers and Entrepreneurs Position Themselves as Technology Innovators in Schools. Contemporary Issues in Technology and Teacher Education (CITE) - General.
+
+Nguyen, K. A., Azevedo, F. S., & **Papendieck, A.** (2021). No longer an imaginary case: Community, plans, and actions in canoeing rapids. Journal of the Learning Sciences, 30(4–5), 529–575. https://doi.org/10.1080/10508406.2021.1936530
 
 **Papendieck, A.** (2018). Technology for Equity and Social Justice in Education: A Critical Issue Overview. Texas Education Review, 6(1), 1–9. https://doi.org/10.15781/t2891278v
 
 ### Peer Reviewed Conference Proceedings and Presentations
+
+**Papendieck, A.**, Hasty, B., Knowles, J. (accepted). Partnering for Change: Types and Characteristics of School-Community Arts Partnerships. American Education Research Association (AERA) Conference 2022, San Diego.
+
+**Papendieck, A.** (2021). Productive Syncretic Engagement for Knowledgeable Network Performance. American Education Research Association (AERA) Conference 2021, SIG Learning Sciences. 
+
+**Papendieck, A.**, Hasty, B., Knowles, J. (2021). Learning in an Arts Education Collective Impact Initiative. 15th International Conference of the International Society of the Learning Sciences (ISLS) 2021.
 
 Nguyen, K., Azevedo, F., & **Papendieck, A.** (2020). On Planning the Canoeing of Rapids and Its Reasoning Processes. In Gresalfi, M. and Horn, I. S. (Eds.), The Interdisciplinarity of the Learning Sciences, 14th International Conference of the Learning Sciences (ICLS) 2020, Volume 1 (pp. 215-222). Nashville, Tennessee: International Society of the Learning Sciences. https://repository.isls.org//handle/1/6505
 
