@@ -3,11 +3,17 @@
 
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<img src="./images/helping.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+## Affect and Narrative in (Inter)Disciplinary Identity Development
+
+To adapt a popular colloquialism, my research deals not just with how we change our minds, but also how we change our hearts. Expanding upon canonical cognitive and sociocultural studies of learning for *conceptual change*, *expertise* and *mastery*, my I do mixed methods design-based research that considers the affective dynamics and narrative aspects of learning as a process of *meaning-making* and *identity formation* within and among disciplines and communities. By paying attention to the conceptual and affective work of learners, we can provide more holistic accounts of how they position themselves and make progress in the development of socially and ethically articulate identities. Such identities can help learners pesist in and change their disciplines.
+
 <img src="./images/edtech_network.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
 
-## Learning in Open and Participatory Media Ecologies
+## Learning Accross Disciplines and COmmunities in Open and Participatory Media Ecologies
 
-Contemproray participatory media enables the fluid formation and disruption of learning networks, presenting a challenge to traditional notions of learning as a highly disciplined, community-bound activity. I use ethnographic, computational and multimodal approaches to study cases of participatory and connected learning, including networks of urban ed-tech innovators, student scientists undertaking course-based research, citizen scientists, and community teaching artists. This research reveals what "21st century skills" of "connected" and "lifelong" learning really look like *in the digital wild*, and informs the design of better, more relevant and equitable open learning and innovation networks. 
+Contemproray participatory media enables the fluid formation and disruption of learning networks, presenting a challenge to traditional notions of learning as a highly disciplined, community-bound activity. I use ethnographic, computational and multimodal approaches to study cases of participatory and connected learning, including networks of urban ed-tech innovators, student scientists undertaking course-based research, citizen scientists, and community teaching artists. This research reveals what 21st century skills of connected and lifelong learning really look like in the digital wild, and informs the design of better, more relevant and equitable open learning and innovation networks. 
 
 ******
 *******
